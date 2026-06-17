@@ -1,6 +1,6 @@
 # NexusBot — Rule-Based AI Chatbot
 
-A rule-based AI chatbot built in Python as part of the **DecodeLabs AI Internship — Project 1 (Batch 2026)**.
+A rule-based AI chatbot built in Python as part of the **DecodeLabs AI Internship — Project 1 **.
 
 ## What it does
 - Responds to 30+ predefined intents using dictionary-based O(1) lookup
