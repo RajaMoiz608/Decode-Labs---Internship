@@ -1,4 +1,4 @@
-# Project 2: Data Classification Using AI
+# Data Classification Using AI
 **DecodeLabs AI Internship — Batch 2026**
 
 ## Overview
