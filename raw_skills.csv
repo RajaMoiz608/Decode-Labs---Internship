@@ -1,0 +1,61 @@
+job_role,skill
+Data Scientist,Python
+Data Scientist,SQL
+Data Scientist,Machine Learning
+Data Scientist,Statistics
+Data Scientist,Data Visualization
+Data Scientist,Deep Learning
+DevOps Engineer,AWS
+DevOps Engineer,Docker
+DevOps Engineer,Kubernetes
+DevOps Engineer,CI/CD
+DevOps Engineer,Automation
+DevOps Engineer,Linux
+Backend Developer,Java
+Backend Developer,Python
+Backend Developer,SQL
+Backend Developer,REST APIs
+Backend Developer,Data Structures
+Backend Developer,Git
+Cloud Architect,AWS
+Cloud Architect,Azure
+Cloud Architect,Cloud Computing
+Cloud Architect,Networking
+Cloud Architect,Terraform
+Cloud Architect,Security
+Frontend Developer,JavaScript
+Frontend Developer,TypeScript
+Frontend Developer,React
+Frontend Developer,HTML/CSS
+Frontend Developer,UI/UX
+Frontend Developer,Git
+ML Engineer,Python
+ML Engineer,TensorFlow
+ML Engineer,Machine Learning
+ML Engineer,Deep Learning
+ML Engineer,Docker
+ML Engineer,Statistics
+Systems Administrator,Linux
+Systems Administrator,Networking
+Systems Administrator,Security
+Systems Administrator,Bash
+Systems Administrator,Automation
+Systems Administrator,Monitoring
+Data Engineer,Python
+Data Engineer,SQL
+Data Engineer,ETL
+Data Engineer,Spark
+Data Engineer,Cloud Computing
+Data Engineer,Data Structures
+Mobile Developer,Kotlin
+Mobile Developer,Swift
+Mobile Developer,Android
+Mobile Developer,iOS
+Mobile Developer,REST APIs
+Mobile Developer,UI/UX
+Cybersecurity Analyst,Networking
+Cybersecurity Analyst,Security
+Cybersecurity Analyst,Cryptography
+Cybersecurity Analyst,Linux
+Cybersecurity Analyst,Monitoring
+Cybersecurity Analyst,Python
